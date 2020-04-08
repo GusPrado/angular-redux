@@ -21,7 +21,6 @@
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "immutable": "^4.0.0-rc.12",
-    "ng2-redux": "^5.1.2",
     "redux": "^4.0.5",
     "rxjs": "~6.4.0",
     "tassign": "^1.0.0",
